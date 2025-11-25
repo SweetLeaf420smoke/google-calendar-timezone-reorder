@@ -1,0 +1,27 @@
+Google Calendar Timezone Reorder allows you to change the display order of timezones in the calendar sidebar without changing the primary timezone for events.
+
+🎯 FEATURES:
+• Drag and drop timezones to change display order
+• Settings saved between sessions
+• Automatically applied on page load
+• Does not affect the primary timezone for events
+
+💼 PERFECT FOR:
+• Teams working across different timezones
+• Frequent travelers
+• International projects
+• Coordinating meetings across timezones
+
+📖 HOW TO USE:
+1. Open Google Calendar with timezones configured (Settings → Time zone)
+2. Click the extension icon in Chrome toolbar
+3. Drag timezones to desired order (first in list will be on the left)
+4. Click "Save" and refresh the calendar page
+
+🔒 PRIVACY:
+The extension does not collect or transmit any personal data. All settings are stored locally in your browser.
+
+⚙️ REQUIREMENTS:
+• Google Calendar must be open in browser
+• At least 2 timezones must be configured in calendar settings
+
